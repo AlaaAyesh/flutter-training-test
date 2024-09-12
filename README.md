@@ -14,5 +14,5 @@ A simple Flutter application demonstrating Firebase Authentication (sign-up, log
 
 ---
 
-## **Getting Started**
+
 

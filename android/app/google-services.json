@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047937615964",
+    "project_id": "test-64ce4",
+    "storage_bucket": "test-64ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047937615964:android:21b8d4579c84b510493e99",
+        "android_client_info": {
+          "package_name": "com.example.flutter_training_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCg7L5dMakrUwgZvavmd8ZDJzpX_icQcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
